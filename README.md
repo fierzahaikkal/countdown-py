@@ -15,4 +15,4 @@ window = Tk()
 ```
 
 ## Screenshot
-![image](https://user-images.githubusercontent.com/83209105/201514119-521b6fa0-2251-4376-922c-5bbd879bcce2.png)
+![image](https://user-images.githubusercontent.com/83209105/201642312-818db259-98c3-4fd6-92b1-d06729aced16.png)
